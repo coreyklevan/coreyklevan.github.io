@@ -1,5 +1,5 @@
 # Site settings
-title: Mauricio Urraco
+title: Corey Klevan
 description: Jekyll Theme Minimal Resume
 baseurl: "coreyklevan.github.io" # the subpath of your site, e.g. /blog
 url: "coreyklevan.ml" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -18,4 +18,4 @@ github_username:  murraco
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
 
-exclude: ['package.json', 'src' , 'node_modules']
+#exclude: ['package.json', 'src' , 'node_modules']
